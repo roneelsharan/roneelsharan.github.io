@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on my <u><a href="https://scholar.google.com.au/citations?user=3Rd5QOEAAAAJ">Google Scholar</a></u> profile.
+You can also find my articles on my <u><a href="https://scholar.google.com.au/citations?user=3Rd5QOEAAAAJ&sortby=pubdate">Google Scholar</a></u> profile.
 
 <li> <b>R. V. Sharan</b>, "Cough sound detection from raw waveform using SincNet and bidirectional GRU", <i>Biomedical Signal Processing and Control</i>, vol. 82, pp. 104580, 2022. <a href="https://doi.org/10.1016/j.bspc.2023.104580" target="_blank">DOI</a> <a href="https://doi.org/10.1016/j.bspc.2023.104580" target="_blank">PDF (Open Access)</a></li>
 <li> <b>R. V. Sharan</b>, "Productive and non-productive cough classification using biologically inspired techniques", <i>IEEE Access</i>, vol. 10, pp. 133958-133968, 2022. <a href="https://doi.org/10.1109/ACCESS.2022.3231640" target="_blank">DOI</a> <a href="https://doi.org/10.1109/ACCESS.2022.3231640" target="_blank">PDF (Open Access)</a></li>
