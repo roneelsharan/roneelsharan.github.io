@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 You can also find my articles on my <u><a href="https://scholar.google.com.au/citations?user=3Rd5QOEAAAAJ&sortby=pubdate">Google Scholar</a></u> profile.
+<li> <b>R. V. Sharan</b> and H. Xiong, "Wet and dry cough classification using cough sound characteristics and machine learning: A systematic review
+", <i>International Journal of Medical Informatics</i>, vol. 199, pp. 105912, 2025. <a href="https://doi.org/10.1016/j.ijmedinf.2025.105912" target="_blank">DOI</a> <a href="https://roneelsharan.github.io/files/2025IJMEDI.pdf" target="_blank">PDF</a></li>
 <li> S. S. Emani, <b>R. Sharan</b>, D. Buitrago, A. Majid, J. Wilson, and S. Gangadharan, "A cough sound-based machine learning model for diagnosis of tracheobronchomalacia", <i>Presented at The 61st Annual Meeting of the Society of Thoracic Surgeons</i>, Los Angeles, CA, USA, 24–26 Jan, 2025. <a href="https://roneelsharan.github.io/files/2025STS.pdf" target="_blank">PDF</a></li>
 <li> <b>R. V. Sharan</b> and B. W. Schuller, "Snore sound classification with Mel-spectrogram and a fine-tuned CNN", <i>Proceedings of the 8th IEEE-EMBS Conference on Biomedical Engineering and Sciences (IECBES)</i>, Penang, Malaysia, 11-13 Dec, 2024, pp. 1-4. <a href="DOIUpdate" target="_blank">DOI</a> <a href="https://roneelsharan.github.io/files/2024IECBES1.pdf" target="_blank">PDF</a></li>
 <li> <b>R. V. Sharan</b>, "Predicting the onset of freezing of gait episodes in patients with Parkinson's disease using EEG", <i>Proceedings of the 8th IEEE-EMBS Conference on Biomedical Engineering and Sciences (IECBES)</i>, Penang, Malaysia, 11-13 Dec, 2024, pp. 1-4. <a href="DOIUpdate" target="_blank">DOI</a> <a href="https://roneelsharan.github.io/files/2024IECBES2.pdf" target="_blank">PDF</a></li>
